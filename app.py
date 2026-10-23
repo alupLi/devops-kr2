@@ -1,3 +1,4 @@
+# KR2: Егоров
 import os
 import socket
 
